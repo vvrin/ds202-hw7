@@ -1,6 +1,6 @@
 ---
 title: "hw7"
-author: "Andrew Chen"
+author: "Vrindha Vegiraju"
 date: "2023-03-21"
 output: html_document
 ---
